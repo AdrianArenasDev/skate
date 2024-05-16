@@ -33,3 +33,22 @@ https://www.youtube.com/watch?v=jEIE9PnBEvQ
 - Otros apuntes del video:
   - Me gusta especialmente el efecto de granulado que aparece y desaparece en esta parte 0:50 - 0:56 que se hace sobre el propio video
   - Intercala clips con y sin ojo de pez (habría que ver una forma bonita para ir intercalando clips con el ojo y sin él)
+
+### Miles Silvas "City to City" adidas Part
+https://www.youtube.com/watch?v=BofbSZKB0OU
+
+- Usan el B&N para algunas tomas, además de efectos de color vintage y granulados.
+  - Ejemplos
+    - 3:39 - 4:03 : Aquí concretamente hacen como una secuencia de tomas falsas y malos intentos de trucos con caidas (no se si quiero añadir algo así en el vídeo)
+
+### Nike SB | Yuto Horigome in Tokyo
+https://www.youtube.com/watch?v=cW9OABECQkU
+
+- Usan un filtro como de película de carrete (esto lo usan bastante durante todo el vídeo)
+  - Ejemplos
+    - 0:34 - 0:41 : Además metén un frame de relleno con un primer plano de las zapatillas que podríamos incluir.
+    - 1:05 - 1:12
+- Meten un frame en unas recreativas que no tiene nada que ver con el skate pero le da variedad
+  - Ejemplos
+    - 0:47 - 0:49
+    - 1:15 - 1:17
