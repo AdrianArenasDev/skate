@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=BofbSZKB0OU
 
 - Usan el B&N para algunas tomas, además de efectos de color vintage y granulados.
   - Ejemplos
-    - 3:39 - 4:03 : Aquí concretamente hacen como una secuencia de tomas falsas y malos intentos de trucos con caidas (no se si quiero añadir algo así en el vídeo)
+    - 3:39 - 4:03 : Aquí concretamente hacen como una secuencia de tomas falsas y malos intentos de trucos con caidas (no se si quiero añadir algo así en el vídeo o podría ser otro video corto aparte para insta)
 
 ### Nike SB | Yuto Horigome in Tokyo
 https://www.youtube.com/watch?v=cW9OABECQkU
