@@ -11,7 +11,7 @@
 - Backside disaster en rampa : ojo de pez
 - Kickflip to fakie en rampa : cárama de lado y en slowmo
 - Halfcab flip en rampa : ojo de pez
-- Airwalk en gap : ojo de pez
+- Airwalk en gap (o en circuito de rampa) : ojo de pez
 - Nollie 360flip en flat: posible truco para la intro
 - 360shove en flat : plano desde atrás de relleno
 - Bs bigspin en flat : plano desde atrás de relleno
