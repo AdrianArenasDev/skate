@@ -8,7 +8,7 @@ LEYENDA:
 - PP - Primer plano
   
 He dividido los spots por el área geográfica en el que se encunetran, es decir, que están próximos.
-Incluyo el nombre de la calle una breve descripción y justo debajo el enlace a StreetView.
+Incluyo el nombre de la calle, una breve descripción y justo debajo el enlace a StreetView.
 
 SPOT 1 - EL HÚMEDO
 Todos los ejemplos son (en principio) TIPO 1.
