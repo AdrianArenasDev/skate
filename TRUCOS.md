@@ -1,0 +1,9 @@
+- Nollie en escaleras : cámara de lado y en slowmo
+- Nollie bs flip en escaleras : cámara de frente
+- Switch fs flip en escaleras : cámara de frente
+- 360flip en escaleras : ojo de pez
+- Halfcab noseslide to crooked en bordillo : ojo de pez
+- Tailslide en bordillo : posible truco para la intro
+- Backside disaster en rampa : ojo de pez
+- Kickflip to fakie en rampa : cárama de lado y en slowmo
+- 
