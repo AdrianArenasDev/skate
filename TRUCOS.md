@@ -3,7 +3,7 @@
 - Nollie bs flip en escaleras : cámara de frente
 - Switch fs flip en escaleras : cámara de frente
 - 360flip en escaleras : ojo de pez
-- Halfcab noseslide to crooked en bordillo : ojo de pez
+- Halfcab noseslide to crooked en bordillo : ojo de pez o cámara de frente
 - Tailslide en bordillo : posible truco para la intro
 - Nosegrind en bordillo : ojo de pez
 - Fs/Bs saltando barandilla o bordillo : ojo de pez
