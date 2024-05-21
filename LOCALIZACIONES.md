@@ -22,11 +22,14 @@ https://www.google.com/maps/@42.5987703,-5.570015,3a,82.7y,25.84h,77.98t/data=!3
 - PLAZA RIAÑO: escalera, suelo de adoquín.
 https://www.google.com/maps/@42.5959014,-5.566885,3a,48.9y,84.13h,80.61t/data=!3m6!1e1!3m4!1saXYhUl9nX8ZQWolNlT_y8w!2e0!7i13312!8i6656?entry=ttu
 
-SPOT 2 - 
+SPOT 2 - CORTE INGLÉS
+
 - C.VELÁZQUEZ: rampa con carrerilla y salto en desnivel. Peligro al cruzar paso de peatones. Por seguridad clip TIPO 1.
 https://www.google.com/maps/@42.5901917,-5.5699342,3a,75y,133.71h,68.88t/data=!3m6!1e1!3m4!1s7vt7g8840rqI3AimwjkbtQ!2e0!7i13312!8i6656?entry=ttu
 *RECURSOS
 Es decir, clips de relleno, lugares bonitos.
+
+SPOT 3 - LA BAÑEZA
 
 SPOT 1 RECURSOS - HÚMEDO
 - CATEDRAL DE LEÓN: es la puta catedral, no hay descripciones.
