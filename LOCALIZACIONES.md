@@ -1,5 +1,5 @@
 LOCALIZACIONES
-*
+
 LEYENDA:
 - Spot TIPO 1: cam estática con obstáculo(s).
 - Spot TIPO 2: la cam persigue al sujeto.
