@@ -39,6 +39,8 @@ https://www.google.com/maps/@42.2974256,-5.9054993,3a,48.9y,22.57h,86.46t/data=!
 SPOT 4 - ERAS DE RENUEVA
 
 - MUSAC: estético. Trucos en suelo, sin obstáculos.
+- LA JUNTA: lo mismo que en el anteior. Se puede jugar con los espejos.
+https://www.google.com/maps/@42.603873,-5.5801078,3a,17.2y,258.64h,91.41t/data=!3m6!1e1!3m4!1sKRQjm5Z6pGFBo7Ebdj8f6A!2e0!7i16384!8i8192?entry=ttu
 
 
 SPOT X - VILLANUEVA pd.:apuntes a nivel idea. Confírmame.
