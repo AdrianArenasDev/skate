@@ -11,6 +11,7 @@ He dividido los spots por el área geográfica en el que se encuentran, es decir
 Incluyo el nombre de la calle, una breve descripción y justo debajo el enlace a StreetView.
 
 SPOT 1 - EL HÚMEDO
+
 Todos los ejemplos son (en principio) TIPO 1.
 - C.SAN LORENZO: Hay 2 escaleras seguidas para saltar una tras otra (spot TIPO 1).
 https://www.google.com/maps/@42.5993103,-5.5656957,3a,90y,274.77h,73.15t/data=!3m6!1e1!3m4!1sNVxf6xttmsZs8xuKPhdNRg!2e0!7i13312!8i6656?entry=ttu
