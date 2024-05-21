@@ -6,7 +6,7 @@ LEYENDA:
 - PM - Plano medio (cintura para arriba)
 - PG - Plano general (cuerpo entero, paisajes)
 - PP - Primer plano
-- 
+  
 He dividido los spots por el área geográfica en el que se encunetran, es decir, que están próximos.
 Incluyo el nombre de la calle una breve descripción y justo debajo el enlace a StreetView.
 
