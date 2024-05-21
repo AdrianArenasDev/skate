@@ -57,5 +57,6 @@ SPOT 4 RECURSOS - TU ABUELO
 - AV. LOS PEREGRINOS: caminando por el puente. Posible toma que nos queda cerca.
 
 SPOT X RECURSOS - VILLANUEVA
--LE 413: campo de maíces.
+
+- LE 413: campo de maíces.
 https://www.google.com/maps/@42.5843835,-5.8134839,3a,75y,268.94h,88.06t/data=!3m6!1e1!3m4!1sL5m7toArU9pWoBVAkVxRxA!2e0!7i16384!8i8192?entry=ttu
