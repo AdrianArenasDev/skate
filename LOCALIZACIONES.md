@@ -36,9 +36,8 @@ https://www.google.com/maps/@42.2975019,-5.905574,3a,75y,286.37h,80.6t/data=!3m6
 - C.CONCORDIA (2): skatepark, por determinar.
 https://www.google.com/maps/@42.2974256,-5.9054993,3a,48.9y,22.57h,86.46t/data=!3m6!1e1!3m4!1sI7pYZsfafV56ITUZ5vdmug!2e0!7i16384!8i8192?entry=ttu
 
-SPOT 4 - TU ABUELO
+SPOT 4 - ERAS DE RENUEVA
 
-pd.: no me sé la zona así que por el momento se queda este nombre.
 - MUSAC: estético. Trucos en suelo, sin obstáculos.
 
 
@@ -53,7 +52,7 @@ SPOT 1 RECURSOS - HÚMEDO
 SPOT 2 RECURSOS - LA BAÑEZA
 - 4LE 420 (POLIDEPORTIVO): graffitis, se ven desde la carretera.
 - C.TENERÍAS: más graffitis.
-SPOT 4 RECURSOS - TU ABUELO
+SPOT 4 RECURSOS - ERAS DE RENUEVA
 - AV. LOS PEREGRINOS: caminando por el puente. Posible toma que nos queda cerca.
 
 SPOT X RECURSOS - VILLANUEVA
