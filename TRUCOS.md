@@ -7,6 +7,7 @@
 - Tailslide en bordillo : posible truco para la intro
 - Nosegrind en bordillo : ojo de pez
 - Fs/Bs saltando barandilla o bordillo : ojo de pez
+- Halfcab saltando barandilla o bordillo : ojo de pez
 - Backside disaster en rampa : ojo de pez
 - Kickflip to fakie en rampa : cárama de lado y en slowmo
 - Halfcab flip en rampa : ojo de pez
