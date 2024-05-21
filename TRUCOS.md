@@ -15,3 +15,4 @@
 - Nollie 360flip en flat: posible truco para la intro
 - 360shove en flat : plano desde atrás de relleno
 - Bs bigspin en flat : plano desde atrás de relleno
+- Fakie flip no se donde
