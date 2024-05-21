@@ -51,6 +51,7 @@ SPOT 1 RECURSOS - HÚMEDO
 - C. DE MURIAS DE PAREDES: graffitis, al lado de PLAZA RIAÑO.
 - C. PALOMA: valla con grafitis de fondo, para tomas en contrapicado/lateral en PM.
 - C. DE LAS CERCAS: donde la muralla. Queda de camino al SPOT 2.
+
 SPOT 2 RECURSOS - LA BAÑEZA
 - 4LE 420 (POLIDEPORTIVO): graffitis, se ven desde la carretera.
 - C.TENERÍAS: más graffitis.
