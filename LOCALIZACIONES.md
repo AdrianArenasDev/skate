@@ -35,7 +35,14 @@ SPOT 3 - LA BAÑEZA
 https://www.google.com/maps/@42.2975019,-5.905574,3a,75y,286.37h,80.6t/data=!3m6!1e1!3m4!1s9g25O5FZKuKeadSERR1Aag!2e0!7i16384!8i8192?entry=ttu
 - C.CONCORDIA (2): skatepark, por determinar.
 https://www.google.com/maps/@42.2974256,-5.9054993,3a,48.9y,22.57h,86.46t/data=!3m6!1e1!3m4!1sI7pYZsfafV56ITUZ5vdmug!2e0!7i16384!8i8192?entry=ttu
-   
+
+SPOT 4 - TU ABUELO
+pd.: no me sé la zona así que por el momento se queda este nombre.
+- MUSAC: estético. Trucos en suelo, sin obstáculos.
+
+
+SPOT X - VILLANUEVA pd.:apuntes a nivel idea. Confírmame.
+- C.IGLESIA: el salto de la iglesia. 
 
 SPOT 1 RECURSOS - HÚMEDO
 - CATEDRAL DE LEÓN: es la puta catedral, no hay descripciones.
@@ -44,3 +51,10 @@ SPOT 1 RECURSOS - HÚMEDO
 - C. DE LAS CERCAS: donde la muralla. Queda de camino al SPOT 2.
 SPOT 2 RECURSOS - LA BAÑEZA
 - 4LE 420 (POLIDEPORTIVO): graffitis, se ven desde la carretera.
+- C.TENERÍAS: más graffitis.
+SPOT 4 RECURSOS - TU ABUELO
+- AV. LOS PEREGRINOS: caminando por el puente. Posible toma que nos queda cerca.
+
+SPOT X RECURSOS - VILLANUEVA
+-LE 413: campo de maíces.
+https://www.google.com/maps/@42.5843835,-5.8134839,3a,75y,268.94h,88.06t/data=!3m6!1e1!3m4!1sL5m7toArU9pWoBVAkVxRxA!2e0!7i16384!8i8192?entry=ttu
