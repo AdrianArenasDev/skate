@@ -1,9 +1,15 @@
+- Manual/Nose manual en cajón : ojo de pez o cámara de lado
 - Nollie en escaleras : cámara de lado y en slowmo
 - Nollie bs flip en escaleras : cámara de frente
 - Switch fs flip en escaleras : cámara de frente
 - 360flip en escaleras : ojo de pez
 - Halfcab noseslide to crooked en bordillo : ojo de pez
 - Tailslide en bordillo : posible truco para la intro
+- Nosegrind en bordillo : ojo de pez
+- Fs/Bs saltando barandilla o bordillo : ojo de pez
 - Backside disaster en rampa : ojo de pez
 - Kickflip to fakie en rampa : cárama de lado y en slowmo
+- Halfcab flip en rampa : ojo de pez
 - Airwalk en gap : ojo de pez
+- 360shove en flat : plano desde atrás de relleno
+- Bs bigspin en flat : plano desde atrás de relleno
