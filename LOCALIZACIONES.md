@@ -19,7 +19,8 @@ https://www.google.com/maps/@42.5959014,-5.566885,3a,48.9y,84.13h,80.61t/data=!3
 
 *RECURSOS
 Es decir, clips de relleno, lugares bonitos.
+
 SPOT 1 RECURSOS - HÚMEDO
-CATEDRAL DE LEÓN: es la puta catedral, no hay descripciones-
-C. DE MURIAS DE PAREDES: graffitis, al lado de PLAZA RIAÑO.
-C. PALOMA: valla con grafitis de fondo, para tomas en contrapicado/lateral PM
+- CATEDRAL DE LEÓN: es la puta catedral, no hay descripciones-
+- C. DE MURIAS DE PAREDES: graffitis, al lado de PLAZA RIAÑO.
+- C. PALOMA: valla con grafitis de fondo, para tomas en contrapicado/lateral PM
