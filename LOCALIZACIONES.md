@@ -30,9 +30,17 @@ https://www.google.com/maps/@42.5901917,-5.5699342,3a,75y,133.71h,68.88t/data=!3
 Es decir, clips de relleno, lugares bonitos.
 
 SPOT 3 - LA BAÑEZA
+- 2CTRA. LEÓN: medio tubo.
+- C.CONCORDIA: resalto; salto para subir y de nuevo para bajar. Spot TIPO 1 o TIPO 2.
+https://www.google.com/maps/@42.2975019,-5.905574,3a,75y,286.37h,80.6t/data=!3m6!1e1!3m4!1s9g25O5FZKuKeadSERR1Aag!2e0!7i16384!8i8192?entry=ttu
+- C.CONCORDIA (2): skatepark, por determinar.
+https://www.google.com/maps/@42.2974256,-5.9054993,3a,48.9y,22.57h,86.46t/data=!3m6!1e1!3m4!1sI7pYZsfafV56ITUZ5vdmug!2e0!7i16384!8i8192?entry=ttu
+   
 
 SPOT 1 RECURSOS - HÚMEDO
 - CATEDRAL DE LEÓN: es la puta catedral, no hay descripciones.
 - C. DE MURIAS DE PAREDES: graffitis, al lado de PLAZA RIAÑO.
 - C. PALOMA: valla con grafitis de fondo, para tomas en contrapicado/lateral en PM.
 - C. DE LAS CERCAS: donde la muralla. Queda de camino al SPOT 2.
+SPOT 2 RECURSOS - LA BAÑEZA
+- 4LE 420 (POLIDEPORTIVO): graffitis, se ven desde la carretera.
