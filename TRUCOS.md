@@ -6,4 +6,4 @@
 - Tailslide en bordillo : posible truco para la intro
 - Backside disaster en rampa : ojo de pez
 - Kickflip to fakie en rampa : cárama de lado y en slowmo
-- 
+- Airwalk en gap : ojo de pez
