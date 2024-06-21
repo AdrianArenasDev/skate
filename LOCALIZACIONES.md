@@ -43,6 +43,7 @@ SPOT 4 - ERAS DE RENUEVA
 - LA JUNTA: lo mismo que en el anteior. Se puede jugar con los espejos.
 https://www.google.com/maps/@42.603873,-5.5801078,3a,17.2y,258.64h,91.41t/data=!3m6!1e1!3m4!1sKRQjm5Z6pGFBo7Ebdj8f6A!2e0!7i16384!8i8192?entry=ttu
 - CIRCUITO NUEVO: más rampitas. https://www.google.com/maps/place/Pumptrack+Modular+Eras/@42.6088883,-5.5861396,16a,32.8y/data=!3m8!1e2!3m6!1sAF1QipOB9UcIsjLhsPqDzekzYTZe7Xo_gtiAfUawQjfb!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOB9UcIsjLhsPqDzekzYTZe7Xo_gtiAfUawQjfb%3Dw203-h237-k-no!7i2953!8i3448!4m16!1m8!3m7!1s0xd379af649bac657:0xe71af44fd0bc4ced!2sLas+Eras+de+Renueva,+24008+Le%C3%B3n!3b1!8m2!3d42.6075654!4d-5.5830907!16s%2Fg%2F122dks7z!3m6!1s0xd379b1c8197c2d5:0xcacce2dc05dc541c!8m2!3d42.6083999!4d-5.5883154!10e5!16s%2Fg%2F11txcg7hgy?entry=ttu
+- CAJONES: https://www.google.es/maps/@42.6041504,-5.5819155,3a,75y,351.02h,90t/data=!3m7!1e1!3m5!1sz2H769Zg3z6zlsDj5HMMDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dz2H769Zg3z6zlsDj5HMMDg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D351.01512634861405%26pitch%3D0%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu
 
 SPOT 5 - PAPALAGUINDA
 
