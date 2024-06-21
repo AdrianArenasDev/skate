@@ -26,6 +26,7 @@ SPOT 2 - CORTE INGLÉS
 
 - C.VELÁZQUEZ: rampa con carrerilla y salto en desnivel. Peligro al cruzar paso de peatones. Por seguridad clip TIPO 1.
 https://www.google.com/maps/@42.5901917,-5.5699342,3a,75y,133.71h,68.88t/data=!3m6!1e1!3m4!1s7vt7g8840rqI3AimwjkbtQ!2e0!7i13312!8i6656?entry=ttu
+https://www.google.com/maps/@42.5910093,-5.5698367,3a,75y,291.14h,68.03t/data=!3m7!1e1!3m5!1sFwobTxmBgbna-voTvQoSEQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DFwobTxmBgbna-voTvQoSEQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D291.14123770596086%26pitch%3D21.96817397605578%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu
 *RECURSOS
 Es decir, clips de relleno, lugares bonitos.
 
