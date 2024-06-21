@@ -43,6 +43,10 @@ SPOT 4 - ERAS DE RENUEVA
 - LA JUNTA: lo mismo que en el anteior. Se puede jugar con los espejos.
 https://www.google.com/maps/@42.603873,-5.5801078,3a,17.2y,258.64h,91.41t/data=!3m6!1e1!3m4!1sKRQjm5Z6pGFBo7Ebdj8f6A!2e0!7i16384!8i8192?entry=ttu
 
+SPOT 5 - PAPALAGUINDA
+
+- SKATEPARK: tiene barandilla y rampas en caso de que hagan falta para el video.
+https://maps.app.goo.gl/PkkrV4fwAWtEsRsW8
 
 SPOT X - VILLANUEVA
 
