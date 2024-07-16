@@ -2,6 +2,7 @@
 ### Gaps sueltos
 - Nollie bs flip en escaleras - cámara de frente
 - Heelflip - ojo de pez o cámara de lado
+- Switch fs bigspin - ojo de pez
 
 ### Líneas
 #### Doble set escaleras
