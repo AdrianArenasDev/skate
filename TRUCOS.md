@@ -42,6 +42,9 @@
 ### León Plaza - https://maps.app.goo.gl/92qrh1h93AxvC7bJ9
 - Bs 5050 en bordillo
 
+### Musac
+- Bordillos (en estos bordis mejor los slides)
+
 ## Flat
 ### Ubicaciones
 - Plaza de la catedral
