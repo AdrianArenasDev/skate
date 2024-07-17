@@ -53,10 +53,13 @@
 - Plaza de San Marcos (con el edificio atrás)
 
 ### Trucos
-- Nollie 360flip en flat- posible truco para la intro
+- Nollie 360flip en flat - posible truco para la intro
 - 360shove en flat - plano desde atrás de relleno
 - Bs bigspin en flat - plano desde atrás de relleno
 - Hardflip en flat - plano de lado y en slowmo
+
+## La Virgen
+- Truco y bajada de carretera - https://maps.app.goo.gl/YgUysf78WX9EDWaQ9
 
 ## Otros
 - 360flip en escaleras - ojo de pez
