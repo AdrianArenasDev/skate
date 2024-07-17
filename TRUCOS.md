@@ -3,6 +3,7 @@
 - Nollie bs flip en escaleras - cámara de frente
 - Heelflip - ojo de pez o cámara de lado
 - Switch fs bigspin - ojo de pez
+- Shoveit Tail Grab - de lado slowmo (en el set grande)
 
 ### Líneas
 #### Doble set escaleras
