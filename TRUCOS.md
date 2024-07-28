@@ -41,7 +41,7 @@
 - Halfcab saltando bordillo - ojo de pez, de frente o perfil
 
 ### León Plaza - https://maps.app.goo.gl/92qrh1h93AxvC7bJ9
-- Bs 5050 en bordillo
+- Bs 5050 shove it out en bordillo
 
 ### Musac
 - Bordillos (en estos bordis mejor los slides)
@@ -64,3 +64,4 @@
 ## Otros
 - 360flip en escaleras - ojo de pez
 - Fakie flip no se donde
+- Nollie varial flip
